@@ -1,0 +1,13 @@
+com\mcavenue\skyblock\Skyblock.class
+com\mcavenue\skyblock\player\PlayerListener.class
+com\mcavenue\skyblock\player\PlayerHandler.class
+com\mcavenue\skyblock\command\IslandCommand.class
+com\mcavenue\skyblock\player\SBPlayer.class
+com\mcavenue\skyblock\config\ChallengesConfig.class
+com\mcavenue\skyblock\config\IslandConfig.class
+com\mcavenue\skyblock\island\Island.class
+com\mcavenue\skyblock\island\IslandHandler.class
+com\mcavenue\skyblock\config\ConfigManager.class
+com\mcavenue\skyblock\config\PlayerConfig.class
+com\mcavenue\skyblock\SpringContext.class
+com\mcavenue\skyblock\island\IslandLocation.class

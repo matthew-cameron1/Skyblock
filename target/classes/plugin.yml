@@ -1,0 +1,8 @@
+name: Skyblock
+main: com.mcavenue.skyblock.Skyblock
+version: 1.0
+commands:
+  island:
+    description: "Island command"
+    aliases:
+      - is
